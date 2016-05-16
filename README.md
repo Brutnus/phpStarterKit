@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/Brutnus/phpStarterKit.svg?branch=master)](https://travis-ci.org/Brutnus/phpStarterKit)
+
 # phpStarterKit
 
 TODO: Lets learn some php.
