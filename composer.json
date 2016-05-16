@@ -1,0 +1,36 @@
+{
+    "name":        "Brutnus/phpStarterKit",
+    "license":     "MIT",
+
+    "authors": [
+       {
+            "name": "Robert Davis",
+            "email": "davisr@jacksonfurnind.com"
+        }
+    ],
+
+    "require": {
+        "php": ">=7.1.0",
+        "illuminate/config": "~5.0",
+        "illuminate/support": "~5.0"
+    },
+
+    "require-dev": {
+        "phpunit/phpunit": "~4.0"
+    },
+
+    "autoload": {
+        "psr-4": {
+            "Brutnus\\PHP\\": "src/"
+        }
+    },
+
+    "target-dir": "",
+    "minimum-stability": "stable",
+
+    "extra": {
+        "branch-alias": {
+            "master": "2.3-dev"
+        }
+    }
+}
